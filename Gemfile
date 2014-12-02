@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'haml'
+gem 'haml-rails'
 
 group :development, :test do
   gem 'web-console'
