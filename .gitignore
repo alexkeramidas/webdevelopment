@@ -43,3 +43,6 @@ config/secrets.yml
 bower.json
 
 /.idea
+
+# Ignore Spring files.
+/spring/*.pid
